@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AI,ML and Data Science**
 
-- 🤝 I’m looking for help with **APIs**
-
 - 📫 How to reach me **koiralanischal16@gmail.com**
 
 <p align="left">
