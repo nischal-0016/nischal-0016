@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischal Koirala</h1>
-- 🌱 I’m currently learning **AI,ML and Data Science**
+🌱 I’m currently learning **AI,ML and Data Science**
 
-- 📫 How to reach me **koiralanischal16@gmail.com**
+📫 How to reach me **koiralanischal16@gmail.com**
 
 <p align="left">
 </p>
